@@ -26,6 +26,8 @@
 
 
 ---
+---
+---
 
 ### Python Projects: 
 [First year College Projects(2021)](/sample_page)
@@ -43,7 +45,8 @@
 
 
 
-
+---
+---
 ---
 
 ### Html Projects: 
