@@ -3,7 +3,7 @@
 ### 2d Blobs(fisrt game)
 
  
-**A 2d platformer shooter game(with cool and bright graphics)**
+**A 2d platformer shooter game(with cool and bright graphics)**  
 This is the very first well pulished game progect i made while learnig love 2d and programing __on my mobile.__  
 
 Others would have gone for something simple like astroids or a very basic platfomer (with a white cube as the player),  
