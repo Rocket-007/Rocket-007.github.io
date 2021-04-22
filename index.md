@@ -10,20 +10,20 @@ and worked on.
 <details>
   <summary>expand!?</summary>
  
-_Towards the end of the lock down at my state (august/september 2020),  
-I finally came to the realization that... man... I gotta do something._  
+<i>Towards the end of the lock down at my state (august/september 2020),<br>  
+I finally came to the realization that... man... I gotta do something.<i/> <br>
 
-_But what could a 16 year old aspired game developer do with his low end phone([how low end?](/myPhoneSpec)).  
-After a hundred google searches later,  
-I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (litrally just like that)   
-So what is this **"love2d"**,_  
+<i>But what could a 16 year old aspired game developer do with his low end phone([how low end?](/myPhoneSpec)).<br>  
+After a hundred google searches later,<br>  
+I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (litrally just like that)<br>   
+So what is this <b>"love2d"<b/>,<i/> 
 
 </details>  
 
 <br/>
 
-Well love2d is this very dope **multiplatform ~~game engine~~ game framework** that is  
-essencially used for making **2d games**,  
+Well love2d is this very dope **multiplatform ~~game engine~~ game framework**  
+that is essencially used for making **2d games**,  
 but if you are crazy like me and some of the love2d game developers at the folrum you could even  
 make **3d games** with it thats go wayyyy beyond the bounds of this mode7 temple runner game i made [here](/WhereTo_page).  
 
