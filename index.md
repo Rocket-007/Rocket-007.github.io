@@ -69,10 +69,13 @@ Some of my first prototypes and other little stuff on Love 2d
 
 
 ---  
+<br>
 
----  
+--- 
+<br>
 
 ---
+
 
 ### Python Projects: 
 [First year College Projects(2021)](/sample_page)
