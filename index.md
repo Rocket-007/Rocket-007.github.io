@@ -3,15 +3,23 @@
 ---
 
 ### Love2d/Lua Projects: 
-[Project 1 Title](/sample_page)
+[2d blobs(fisrt game)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[WeDraw](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[BIO-battle it out](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[WhereTo?](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[some of my first prototypes and other little stuff on love 2dt](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
