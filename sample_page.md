@@ -1,6 +1,9 @@
 ## Love2d/Lua Projects
 
-**Project description:** Towards the end of the lock down at my state (august/september 2020),  
+**Project description:**  This page consists of Love2d and Lua Project that i have made  
+
+
+Towards the end of the lock down at my state (august/september 2020),  
 I finally came to the realization that... man... I gotta do something.  
 
 But what could a 16 year old aspired game developer do with his low end phone([how low end?](/myPhoneSpec)).  
@@ -29,18 +32,18 @@ you should probably get that too
 
 ---
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 2d Blobs(fisrt game)
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
+```lua
+if isAwesome then
   return true
-}
+end
 ```
+---
 
-### 2. Assess assumptions on which statistical inference will be based
-
+### WeDraw
 ```javascript
 if (isAwesome){
   return true
