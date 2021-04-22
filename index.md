@@ -19,6 +19,7 @@ I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (l
 So what is this **"love2d"**,_  
 
 </details>  
+
 <br/>
 
 Well love2d is this very dope **multiplatform ~~game engine~~ game framework** that is  
@@ -66,7 +67,11 @@ Some of my first prototypes and other little stuff on Love 2d
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
+---  
+<br>
 
+---  
+<br>
 
 ---  
 <br>
@@ -94,10 +99,19 @@ Some of my first prototypes and other little stuff on Love 2d
 
 
 ---  
+<br>
 
 ---  
+<br>
+
+---  
+<br>
+
+--- 
+<br>
 
 ---
+
 
 ### Html Projects: 
 [Project 1 Title](/sample_page)
