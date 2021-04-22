@@ -19,6 +19,7 @@ I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (l
 So what is this **"love2d"**,_  
 
 </details>  
+<br/>
 
 Well love2d is this very dope **multiplatform ~~game engine~~ game framework** that is  
 essencially used for making **2d games**,  
@@ -45,17 +46,17 @@ A 2d platformer shooter game(with cool and bright graphics)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[WeDraw](/pdf/WeDraw_page)  
+[WeDraw](/WeDraw_page)  
 A Mutiplayer Drawing Project
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[BIO-battle it out](BIO_page)  
+[BIO-battle it out](/BIO_page)  
 A VERY Unique Multiplayer 2d Platformer Shooter
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[WhereTo?](WhereTo_page)  
+[WhereTo?](/WhereTo_page)  
 A MODE-7 Temple Runner Game
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
