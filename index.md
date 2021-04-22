@@ -18,7 +18,7 @@ After a hundred google searches later,
 I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (litrally just like that)   
 So what is this **"love2d"**,_  
 
-</details>
+</details>  
 
 Well love2d is this very dope **multiplatform ~~game engine~~ game framework** that is  
 essencially used for making **2d games**,  
