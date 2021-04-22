@@ -5,8 +5,6 @@
 ### Love2d/Lua Projects: 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -21,31 +19,27 @@
 
 ---
 
-### Love2d/Lua Projects: 
+### Python Projects: 
+[First year College Projects(2021)](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Some other Random Code](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Pygame Projects](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+
+
+
+
+---
+
+### Html Projects: 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
-
-
-
-
----
-
-### Love2d/Lua Projects: 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
