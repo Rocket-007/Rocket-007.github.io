@@ -22,7 +22,7 @@ So what is this <b>"love2d"</b>,</i>
 
 <br>
 
-Well love2d is this very dope **multiplatform ~~game engine~~ game framework**  
+Well love2d is a multiplatform ~~game engine~~ game framework  
 that is essencially used for making **2d games**,  
 but if you are crazy like me and some of the love2d game developers at the folrum you could even  
 make **3d games** with it thats go wayyyy beyond the bounds of this mode7 temple runner game i made [here](/WhereTo_page).  
@@ -83,15 +83,23 @@ Some of my first prototypes and other little stuff on Love 2d
 
 
 ### Python Projects: 
-[First year College Projects(2021)](/sample_page)
+
+**Project description:**  This section of the page consists of Python Project.  
+
+So we started learning python in second semester of 100 level(Jan, 2021) and thats actually  
+when i started putting more into using python programing language,  
+and here are some of what i have to show off 
+
+---
+[First year College Class Projects(2021)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Some other Random Code](/pdf/sample_presentation.pdf)
+[Some other Random Code]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pygame Projects](http://example.com/)
+[Pygame Projects]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
