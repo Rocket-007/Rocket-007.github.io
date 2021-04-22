@@ -10,14 +10,14 @@ Others would have gone for something simple like astroids or a very basic platfo
 but i dont know what came into me that made me choose such a big project at the very early stage of me learning love2d.  
 
 It was terrible but exciting and fun but still verrry terrrriblee(sooo mannnny buggggs and errrorsss and issues and... arghh!!).  
-Even wiht all the bugs and issues like:  
+Mind you this project is done entirely with my android phone.  
+There were big issues like:  
     -map editing  
     -enemy spawnig  
     -gamestates design  
     -sound implementation  
     -enemy ai  
     -game controls  
-    -player spawinig  
     -ui design  
     -character selection...  
 
