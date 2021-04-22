@@ -11,7 +11,6 @@ but i dont know what came into me that made me choose such a big project at the 
 
 It was terrible but exciting and fun but still verrry terrrriblee(sooo mannnny buggggs and errrorsss and issues and... arghh!!).  
 Even wiht all the bugs and issues like:  
-
     map editing  
     enemy spawnig  
     gamestates design  
