@@ -11,16 +11,16 @@ and worked on.
   <summary>expand!?</summary>
  
 <i>Towards the end of the lock down at my state (august/september 2020),<br>  
-I finally came to the realization that... man... I gotta do something.<i/> <br>
+I finally came to the realization that... man... I gotta do something.</i> <br>
 
 <i>But what could a 16 year old aspired game developer do with his low end phone([how low end?](/myPhoneSpec)).<br>  
 After a hundred google searches later,<br>  
 I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (litrally just like that)<br>   
-So what is this <b>"love2d"<b/>,<i/> 
+So what is this <b>"love2d"</b>,</i> 
 
 </details>  
 
-<br/>
+<br>
 
 Well love2d is this very dope **multiplatform ~~game engine~~ game framework**  
 that is essencially used for making **2d games**,  
