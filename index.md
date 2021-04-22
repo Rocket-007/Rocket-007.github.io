@@ -88,7 +88,7 @@ Some of my first prototypes and other little stuff on Love 2d
 
 So we started learning python in second semester of 100 level(Jan, 2021) and thats actually  
 when i started putting more into using python programing language,  
-and here are some of what i have to show off 
+and here are some of my projects
 
 ---
 [First year College Class Projects(2021)](/sample_page)
