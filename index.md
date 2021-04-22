@@ -4,16 +4,17 @@
 
 ### Love2d/Lua Projects: 
 
-**Project description:**  This page consists of Love2d and Lua Project that i have made  
+**Project description:**  This section of the page consists of Love2d and Lua Project that i have made  
+and worked on.
 
 
-Towards the end of the lock down at my state (august/september 2020),  
-I finally came to the realization that... man... I gotta do something.  
+_Towards the end of the lock down at my state (august/september 2020),  
+I finally came to the realization that... man... I gotta do something._  
 
-But what could a 16 year old aspired game developer do with his low end phone([how low end?](/myPhoneSpec)).  
+_But what could a 16 year old aspired game developer do with his low end phone([how low end?](/myPhoneSpec)).  
 After a hundred google searches later,  
 I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (litrally just like that)   
-So what is this **"love2d"**,  
+So what is this **"love2d"**,_  
 
 Well love2d is this very dope **multiplatform ~~game engine~~ game framework** that is  
 essencially used for making **2d games**,  
