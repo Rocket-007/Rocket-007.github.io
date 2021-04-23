@@ -25,7 +25,7 @@ There were big issues like:
 
 ...But surpisingly after **2 MONTHS** i finished the game project, with a ton of help form my brother in the arts department  
 
-You can view the complete code repository [here](../blob/master/LICENSE) or download the apk [here](../blob/master/LICENSE)  
+You can view the complete code repository [here](https://github.com/Rocket-007/2d-Blobs) or download the apk [here](../blob/master/LICENSE)  
 
 ```lua
 if isAwesome then
