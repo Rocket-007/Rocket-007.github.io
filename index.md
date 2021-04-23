@@ -26,12 +26,12 @@ Well love2d is a multiplatform game ~~engine~~ framework that uses the <b>Lua pr
 its scripting(much like how pygame uses python for scripting and unity uses c# or and c++).  
 
 It is essencially used for making <b>2d games</b>,  
-but if you are crazy like me you could even  
-make <b>3d games</b> that go wayyyy beyond the bounds of this mode7 temple runner game i made [here](/WhereTo_page),  
+but if you are crazy like me you could even make <b>3d games</b> that  
+go wayyyy beyond the bounds of this mode7 temple runner game i made [here](/WhereTo_page),  
 but it will definately take more time, effort and resouces to accomplish that.  
 
-Because love2d is multiplatform, the framework developers also made a <b>andriod app</b> of the framework(wowwww), so  
-meaning that you dont really have to use a pc to run the code,  
+Because love2d is multiplatform, the framework developers also made a <b>andriod app</b> of the framework(wowwww),  
+so meaning that you dont really have to use a pc to run the code,  
 you can aswell run  it on you <b>android and ios device</b> (double woooow). This was exactly what i was looking for because  
 again... i did nt have a pc!.  
 
