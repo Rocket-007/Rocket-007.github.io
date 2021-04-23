@@ -34,7 +34,7 @@ You can view the complete code repository [here](https://github.com/Rocket-007/2
 
 
 One of the early stage of the game project creation
-![alt text](/images/2d-Blobs_img0.1.png.png)![alt text](/images/2d-Blobs_img0.2.png.png)
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.1.png?raw=true)![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.1.png?raw=true)
 
 
 
