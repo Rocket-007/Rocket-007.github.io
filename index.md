@@ -23,7 +23,7 @@ So what is this <b>"love2d"</b>,</i>
 <br>
 
 Well love2d is a multiplatform ~~game engine~~ game framework  
-that is essencially used for making **2d games**,  
+that is essencially used for making <b>2d games</b>,  
 but if you are crazy like me and some of the love2d game developers at the folrum you could even  
 make **3d games** with it thats go wayyyy beyond the bounds of this mode7 temple runner game i made [here](/WhereTo_page).  
 
