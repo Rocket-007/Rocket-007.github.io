@@ -11,9 +11,9 @@ and worked on.
   <summary>expand!?</summary>
  
 <i>Towards the end of the lock down at my state (august/september 2020),<br>  
-I finally came to the realization that... man... I gotta do something.</i> <br>
+I finally came to the realization that... man... I gotta make something.</i> <br>
 
-<i>But what could a 16 year old aspired game developer do with his low end phone([how low end?](/myPhoneSpec)).<br>  
+<i>Being an aspired game developer, what could I have done with [my mobile phone](/myPhoneSpec)(did nt have a pc).<br>  
 After a hundred google searches later,<br>  
 I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (litrally just like that)<br>   
 So what is this <b>"love2d"</b>,</i> 
@@ -22,24 +22,26 @@ So what is this <b>"love2d"</b>,</i>
 
 <br>
 
-Well love2d is a multiplatform ~~game engine~~ game framework  
-that is essencially used for making <b>2d games</b>,  
-but if you are crazy like me and some of the love2d game developers at the folrum you could even  
-make **3d games** with it thats go wayyyy beyond the bounds of this mode7 temple runner game i made [here](/WhereTo_page).  
+Well love2d is a multiplatform game ~~engine~~ framework that uses the <b>Lua programing language</b> for  
+its scripting(much like how pygame uses python for scripting and unity uses c# or and c++).  
 
-Ok back to the explanation...,  
-and because love2d is multiplatform, the framework developers also made a **andriod app** of the framework(wowwww), so  
+It is essencially used for making <b>2d games</b>,  
+but if you are crazy like me you could even  
+make <b>3d games</b> that go wayyyy beyond the bounds of this mode7 temple runner game i made [here](/WhereTo_page),  
+but it will definately take more time, effort and resouces to accomplish that.  
+
+Because love2d is multiplatform, the framework developers also made a <b>andriod app</b> of the framework(wowwww), so  
 meaning that you dont really have to use a pc to run the code,  
-you can aswell run  it on you **android and ios device** (double woooow).  
+you can aswell run  it on you <b>android and ios device</b> (double woooow). This was exactly what i was looking for because  
+again... i did nt have a pc!.  
 
 
-Love2d uses a **Lua programing language** for its scripting(much like how pygame uses python for scripting and unity uses c# or and c++)  
 And just like that my jorney with _love_ began  
 
-if you want to try it out you can download the app on app store of playstore. i made use of **"droid edit"** for coding so  
+if you want to try it out you can download the app on app store of playstore. i made use of <b>"droid edit"</b> for coding so  
 you should probably get that too.  
 
-**so here are some of my code, projects and games/apps i have to show off**  
+<b>so here are some of my code, projects and games/apps i have to show off</b>  
 
 
 [2d blobs(fisrt game)](/2dBlobs_page)  
