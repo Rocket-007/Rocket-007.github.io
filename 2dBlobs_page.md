@@ -33,9 +33,19 @@ You can view the complete code repository [here](https://github.com/Rocket-007/2
 <b>Below are some of the screenshots of the game s development and progress with description</b>  
 
 
-One of the early stage of the game project creation
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.1.png?raw=true)![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.1.png?raw=true)
+_One of the early stage of the game project creation_
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.1.png?raw=true)![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.2.png?raw=true)  
 
+
+
+_One of the early stage of the game project creation_
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img2.png?raw=true)  
+
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img3.png?raw=true)  
+
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img4.png?raw=true)  
+
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img1.png?raw=true)
 
 
 
