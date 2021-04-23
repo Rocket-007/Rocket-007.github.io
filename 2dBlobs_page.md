@@ -34,19 +34,29 @@ You can view the complete code repository [here](https://github.com/Rocket-007/2
 
 
 _One of the early stage of the game project creation_
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.1.png?raw=true)![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.2.png?raw=true)  
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.2.png?raw=true)  
 
 
 
-_One of the early stage of the game project creation_
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img2.png?raw=true)  
+_More progress...  
+BTW, one mobile there is no windows or menu for debugging on the console so i have to <b>manually</b>  
+place my varibles on the screen i can debug, thats why my screen is messy in development
+_
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img2.png?raw=true)    
 
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img3.png?raw=true)  
-
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img4.png?raw=true)  
-
+ 
+_More and more progress...  
+fixing issues with shooting
+_
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img1.png?raw=true)
 
+
+_I have a small screen_
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img10.png?raw=true)
+
+
+_The main main menu ;-)_
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img8.png?raw=true)
 
 
 
