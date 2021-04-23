@@ -19,6 +19,7 @@ There were very big issues like:
 -enemy spawnig  
 -gamestates design  
 -sound implementation  
+-sound implementation  
 -enemy ai  
 -game controls  
 -ui design  
@@ -31,7 +32,7 @@ with a ton of help form my brother in the arts department(<3 U bro)
 You can view the complete code repository [here](https://github.com/Rocket-007/2d-Blobs) or download the apk [here](../blob/master/LICENSE)  
 
 <b>Below are some of the screenshots of the game s development and progress with description</b>  
-
+<br>
 
 
 
@@ -42,7 +43,7 @@ One of the early stage of the game project creation
 
 More progress...  
 BTW, one mobile there is no windows or menu for debugging on the console so i have to <b>manually</b>  
-place my varibles on the screen i can debug, thats why my screen is messy in development
+place my variables on the screen so i can debug, and thats why my screen is so messy in development
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img2.png?raw=true)    
 
  
@@ -55,7 +56,7 @@ I have a small screen :-( <br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img10.png?raw=true)
 
 
-_The main main menu ;-)_
+The main main menu ;-)
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img8.png?raw=true)
 
 
