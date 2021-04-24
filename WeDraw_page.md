@@ -28,9 +28,29 @@ A terrible accident happened that made me lose most of my files
 including the server file of the project but apart from that the code still works swell with the client tho.  
 
 
+you can view the code repository [here](https://github.com/Rocket-007/WeDraw)  
+
+
+<b>Below are some of the screenshots of the game s development and progress with description</b>  
+<br>
+
+The very early stage of the development where the ineffective dot drawing method was used<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_img1.jpg?raw=true)
+
+
+Using the 'sock' library for the local netwoking <br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_img1.jpg?raw=true)
+
+
+
+
+
+
+
+
+
+
 you can view the code repository [here](https://github.com/Rocket-007/WeDraw)
-
-
 ```lua
 if isAwesome then
   return true
