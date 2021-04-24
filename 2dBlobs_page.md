@@ -18,7 +18,7 @@ There were very big issues like:
 -map editing  
 -gamestates design  
 -sound implementation  
--graphics design and assets creation 
+-graphics design and assets creation  
 -enemy ai  
 -game controls  
 -ui design  
@@ -59,7 +59,12 @@ RIP small screen :-( <br>
 
 
 The main menu ;-)<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img8.png?raw=true)<br><br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img8.png?raw=true)<br>
+<i>there are afew more screenshots in the images source code directory at this [repo](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images)<i/>
+
+
+
+<br><br>
 
 
 
