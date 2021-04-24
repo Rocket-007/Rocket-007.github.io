@@ -8,7 +8,7 @@ This is the very first well pulished game progect i made while learnig love 2d a
 
 Others would have gone for something simple like astroids or a very basic platfomer (with a white cube as the player)  
 for there first game,  
-but I game myself a way bigger project even it being at the very early stage of me learning love2d and lua.  
+but I gave myself a way bigger project even it being at the very early stage of me learning love2d and lua B-).  
 
 It was terrible but exciting and ~~fun~~ _trilling_ but still verrry terrrriblee(sooo mannnny buggggs and errrorsss and issues and... arghh!!).  
 
@@ -45,7 +45,7 @@ The bug happened when i (inevitably) scaled the camera aand map to values like 0
 
 More progress...  
 BTW, one mobile there is no windows or menu for debugging on the console so i have to <b>manually</b>  
-place my variables on the screen so i can debug, and thats why my screen is so messy in development<br>
+place my variables on the screen so i can debug, and thats why my screen is so messy in development(and I also think it looks cool B-))<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img2.png?raw=true)<br>
 
  
