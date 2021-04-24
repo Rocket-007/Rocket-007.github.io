@@ -12,8 +12,8 @@ It has some dope features like:
 
 -locally connecting devices together  
 -shooting each other  
--blocking with the shield(it think it works)  
--cool day and night cycle(request for my bro)  
+-blocking with the shield(I think it works)  
+-day and night cycle(request form my bro)  
 -score board  
 -flying and jumping  
 -dying and respawing  
