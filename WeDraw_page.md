@@ -51,7 +51,20 @@ and the strip of values on the right are the coordinates of each line attached t
 
 The value strip on the right were used when I was to HARD CODE a PINCH ZOOM and PAN feature (tho most of the code is disabled now)
 <br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing12.jpg?raw=true)<br><br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing12.jpg?raw=true)<b>
+ 
+
+
+Here are some of my drawings atrocities :-D<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing3.jpg?raw=true)<b>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing16.jpg?raw=true)<b>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing14.jpg?raw=true)<b>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing13.jpg?raw=true)<b>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing19.jpg?raw=true)<b>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing25.jpg?raw=true)<b>
+
+
+<br><br>
 
 
 
