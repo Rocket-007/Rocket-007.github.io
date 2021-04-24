@@ -29,23 +29,23 @@ project code [here](https://github.com/Rocket-007/BIO-Battle-It-Out)<br>
 
 
 Early stage of development when there was nothing but drakness and two squares running in nothingness :'-) <br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img0.1.png)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img0.1.png?raw=true)<br>
 
 
 Admin joined the game, yeah<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img1.png)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img1.png?raw=true)<br>
 
 
 Falling through ground bug(fixed)<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img3.png)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img3.png?raw=true)<br>
 
 
 Adding functioning health bar, score, points, and score board<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img6.png)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img6.png?raw=true)<br>
 
 
 ???Admin in the lead<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img8.png)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img8.png?raw=true)<br>
 
 
 
