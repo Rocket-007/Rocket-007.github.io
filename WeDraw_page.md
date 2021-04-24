@@ -55,14 +55,14 @@ The value strip on the right were used when I was to HARD CODE a PINCH ZOOM and 
  
 
 
-Here are some of my drawings atrocities :-D<br>
+...And are some of my drawing atrocities too, to balance the mix :-D<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing3.jpg?raw=true)<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing16.jpg?raw=true)<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing14.jpg?raw=true)<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing13.jpg?raw=true)<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing19.jpg?raw=true)<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing25.jpg?raw=true)<br>
-
+<i>
 
 <br><br>
 
