@@ -26,4 +26,49 @@ All the obstacles were drawn by my bro, but the characters are
 from online sources with a little tweaking of my own
 
 
+The code lives [here](https://github.com/Rocket-007/WhereTo) and the apk [here]()<br>
+<b>Some of the screenshots of the game s development and progress with description below</b>  
+<br>
+
+
+Fixing bugs on issues ( goofing arround:-D) on the early stages of the project s development <br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img0.png?raw=true)<br>
+
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img2.png?raw=true)<br>
+
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img3.png?raw=true)<br><br><br>
+
+
+
+Final cleaning up of the assets my bro created<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img7.png?raw=true)<br>
+
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img10.png?raw=true)<br><br><br>
+
+
+
+Implementing in game shopping system<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img14.png?raw=true)<br>
+
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img15.png?raw=true)<br>
+
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img17.png?raw=true)<br><br><br>
+
+
+
+Adding more characters<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img17.png?raw=true)<br><br><br>
+
+
+
+
+Trying to fix one of the most frustrating bug i have faced <br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img20.png?raw=true)<br>
+
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img21.png?raw=true)<br><br><br>
+
+
+
+
 The code lives [here](https://github.com/Rocket-007/WhereTo) and the apk [here]()
+
