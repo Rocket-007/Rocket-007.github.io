@@ -62,12 +62,27 @@ Adding more characters<br>
 
 
 
-Trying to fix one of the most frustrating bug i have faced <br>
+Trying to fix one of the most frustrating bug.  
+Apperently it was caused by <b>A MISSPELT WORD</b> in an old library... <i>wtf</i><br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img20.png?raw=true)<br>
 
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img21.png?raw=true)<br><br><br>
 
 
+
+More and More progress...
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img6.png?raw=true)<br><br><br>
+
+
+
+Fixing a weird rotation bug by editing game manifest file
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img22.png?raw=true)<br><br><br>
+
+
+
+
+The Leaderboard project
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img23.png?raw=true)<br><br><br>
 
 
 The code lives [here](https://github.com/Rocket-007/WhereTo) and the apk [here]()
