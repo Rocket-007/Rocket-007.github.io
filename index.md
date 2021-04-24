@@ -13,7 +13,7 @@ and worked on.
 <i>Towards the end of the lock down at my state (august/september 2020),<br>  
 I finally came to the realization that... man... I gotta make something.</i> <br>
 
-<i>Being an aspired game developer, what could I have done with [my mobile phone](/myPhoneSpec)(did nt have a pc).<br>  
+<i>Being an aspired game developer, what could I have done with <a href="myPhoneSpec">my mobile phone</a>(did nt have a pc).<br>  
 After a hundred google searches later,<br>  
 I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (litrally just like that)<br><br>   
 So what is this <b>"love2d"</b>,</i> 
