@@ -10,13 +10,17 @@ and you ve got **BIO**.
 
 It has some dope features like:  
 
--
--
--
--
--
--
--
+-locally connecting devices together  
+-shooting each other  
+-blocking with the shield(it think it works)  
+-cool day and night cycle(request for my bro)  
+-score board  
+-flying and jumping  
+-dying and respawing  
+-cool house in the middle of nowhere  
+-etc...  
+
+
 
 This actually is nt complete but i so much love the unique game mechanics that i will definately  
 recreating it once i get a pc and switch to an engine  
