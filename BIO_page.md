@@ -36,8 +36,12 @@ Admin joined the game, yeah<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img1.png)<br>
 
 
+Falling through ground bug(fixed)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img3.png)<br>
 
 
+Falling through ground bug(fixed)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img3.png)<br>
 
 
 
