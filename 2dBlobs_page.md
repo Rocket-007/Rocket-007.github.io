@@ -4,7 +4,7 @@
 
  
 **A 2d platformer shooter game(with cool and bright graphics)**  
-This is the very first well pulished game progect i made while learnig love 2d and programing on my mobile.  
+This is the very first well pulished game progect i made while learnig love 2d and programing on my [mobile](/myPhoneSpec).  
 
 Others would have gone for something simple like astroids or a very basic platfomer (with a white cube as the player)  
 for there first game,  
@@ -12,7 +12,7 @@ but I gave myself a way bigger project even it being at the very early stage of 
 
 It was terrible but exciting and ~~fun~~ _trilling_ but still verrry terrrriblee(sooo mannnny buggggs and errrorsss and issues and... arghh!!).  
 
-Mind you this project is done entirely without a pc.  
+Because this project was done entirely without a pc.  
 There were very big issues like:  
 
 -map editing  
@@ -25,7 +25,7 @@ There were very big issues like:
 -character selection  
 -apk packaging and signing...  
 
-...But surpisingly even without a pc after <b>2 MONTHS</b> i finished the game project,  
+...But even without the support a pc, after <b>2 MONTHS</b> the game project was completed,  
 with a ton of help form my brother in the arts department(<3 u bro)  
 
 You can view the complete code repository [here](https://github.com/Rocket-007/2d-Blobs) or download the apk [here](../blob/master/LICENSE)  
@@ -60,7 +60,7 @@ RIP small screen :-( <br>
 
 The main menu ;-)<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img8.png?raw=true)<br>
-<i>there are afew more screenshots in the images source code directory at this [repo](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images)<i/>
+<i>there are afew more screenshots in the images source code directory at this [repo](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images) if you are intrested<i/>
 
 
 
