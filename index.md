@@ -40,22 +40,22 @@ so you should probably get that too.
 
 [2d blobs(fisrt game)](/2dBlobs_page)  
 A 2d platformer shooter game(with cool and bright graphics)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail_2dBlobs.png?raw=true"/>
 
 ---
 [WeDraw](/WeDraw_page)  
 A Mutiplayer Drawing Project
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail_WeDraw.png?raw=true"/>
 
 ---
 [BIO-battle it out](/BIO_page)  
 A VERY Unique Multiplayer 2d Platformer Shooter
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail._BIO.png?raw=true"/>
 
 ---
 [WhereTo?](/WhereTo_page)  
 A MODE-7 Temple Runner Game
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail_WhereTo.png?raw=true"/>
 
 ---
 [some of my first prototypes and other little stuff on love 2dt](http://example.com/)  
