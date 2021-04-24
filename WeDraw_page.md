@@ -35,38 +35,38 @@ you can view the code repository [here](https://github.com/Rocket-007/WeDraw)
 <br>
 
 The very early stage of the development where the ineffective dot drawing method was used<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_img1.jpg?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/WeDraw_img1.jpg?raw=true)<br>
 
 
 Using the 'sock' library for the local networking <br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_img3.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/WeDraw_img3.png?raw=true)<br>
 
 
 The long strip of values on the left shows the beginning and the ending of stroke gestures{I have to print them to screen because I use mobile}  
 (false and true values respectively)- Will use this to create an undo feature someday,  
 and the strip of values on the right are the coordinates of each line attached to a stoke gesture table
 <br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing9.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/dummyDrawing9.png?raw=true)<br>
 
 
  Hard coding a prototype of a pinch zoom and pan code
 <br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyWeDraw_img8.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/dummyWeDraw_img8.png?raw=true)<br>
 
 
 The value strip on the right were used when I was to HARD CODE a PINCH ZOOM and PAN feature (tho most of the code is disabled now)
 <br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing12.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/dummyDrawing12.png?raw=true)<br>
  
 
 
 ...And are some of my drawing atrocities too, to balance the mix :-D<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing3.png?raw=true)<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing16.png?raw=true)<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing14.png?raw=true)<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing13.png?raw=true)<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing19.png?raw=true)<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing25.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/dummyDrawing3.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/dummyDrawing16.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/dummyDrawing14.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/dummyDrawing13.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/dummyDrawing19.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/dummyDrawing25.png?raw=true)<br>
 <i>there are afew more screenshots in the images source code directory at this [repo](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS)<i/>
 
 <br><br>
