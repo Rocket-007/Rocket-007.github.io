@@ -51,7 +51,7 @@ and the strip of values on the right are the coordinates of each line attached t
 
  Hard coding a prototype of a pinch zoom and pan code
 <br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/WeDraw_img8.png.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS/WeDraw_img8.png?raw=true)<br>
 
 
 The value strip on the right were used when I was to HARD CODE a PINCH ZOOM and PAN feature (tho most of the code is disabled now (because of thic bug!))
