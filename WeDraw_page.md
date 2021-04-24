@@ -49,6 +49,11 @@ and the strip of values on the right are the coordinates of each line attached t
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing9.jpg?raw=true)
 
 
+The value strip on the right were used when I was to HARD CODE a PINCH ZOOM and PAN feature (tho most of the code is disabled now)
+<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing12.jpg?raw=true)
+
+
 
 
 
