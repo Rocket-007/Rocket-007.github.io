@@ -38,7 +38,7 @@ You can view the complete code repository [here](https://github.com/Rocket-007/2
 
 
 Fixing a very terrible bug that threatened the project at the early stage of development.  
-The playing would clip a small piece of it self to the left to corner of the screen, leaving the wireframe of the collision blocks.  
+The window would clip a small piece of it self to the left top corner of the screen, leaving the wireframe of the collision blocks.  
 The bug happened when i (inevitably) scaled the camera aand map to values like 0.1, 0.2,...0.9 <br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.2.png?raw=true)<br>
 
