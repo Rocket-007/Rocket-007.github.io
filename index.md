@@ -9,13 +9,10 @@ and worked on.
 
 <details>
   <summary>expand!?</summary>
- 
-<i>Towards the end of the lock down at my state (august/september 2020),<br>  
-I finally came to the realization that... man... I gotta make something.</i> <br>
 
 <i>Being an aspired game developer, what could I have done with <a href="myPhoneSpec">my mobile phone</a>(did nt have a pc).<br>  
-After a hundred google searches later,<br>  
-I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (litrally just like that)<br><br>   
+After some google searches,<br>  
+I came across a stack overflow comment where someone mention IT!!!! "LOVE2D" (litrally just like that)<br><br>   
 So what is this <b>"love2d"</b>,</i> 
 
 </details>  
@@ -32,16 +29,13 @@ but it will definately take more time, effort and resouces to accomplish that.
 
 Because love2d is multiplatform, the framework developers also made a <b>andriod app</b> of the framework(wowwww),  
 so meaning that you dont really have to use a pc to run the code,  
-you can aswell run  it on you <b>android and ios device</b> (double woooow). This was exactly what i was looking for because  
-again... i did nt have a pc!.  
+you can aswell run  it on you <b>android and ios device</b> (double woooow). This was exactly what i was looking for.   
 
 
-And just like that my jorney with _love_ began  
+You try it out yourself. Download the app on app store or playstore. I made use of <b>"droid edit"</b> for the coding(an IDE)  
+so you should probably get that too.  
 
-if you want to try it out you can download the app on app store of playstore. i made use of <b>"droid edit"</b> for coding so  
-you should probably get that too.  
-
-<b>so here are some of my code, projects and games/apps i have to show off</b>  
+<b>Here are some of my code, projects and games/apps i have to show off</b>  
 
 
 [2d blobs(fisrt game)](/2dBlobs_page)  
