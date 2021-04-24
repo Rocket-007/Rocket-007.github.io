@@ -5,8 +5,8 @@
 
 **A VERY Unique multiplayer 2d platformer shooter**  
 Alrighty..., take the 2d Blobs project [here](/2dBlobs_page) and the WeDraw project [here](/WeDraw_page),  
-put them in a bowl and mix em together, then add... **A SPECIAL SAUCE!**,  
-and you ve got **BIO**.  
+put them in a bowl and mix em together, then add... <b>A SPECIAL SAUCE!</b>,  
+and you ve got <b>BIO</b>.  
 
 It has some dope features like:  
 
@@ -44,7 +44,7 @@ Adding functioning health bar, score, points, and score board<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img6.png?raw=true)<br>
 
 
-???Admin in the lead<br>
+Admin in the lead :-D<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img8.png?raw=true)<br>
 
 
