@@ -8,7 +8,7 @@ This is basically the second project i worked on for close to a month after i ma
 Its actually one of my dream apps/game that I plan on continueing/recreating when I switch to an engine.  
 
 This project was where I used another dope feature of Love2d, <b>"NETWORKING"</b>.  
-Through the use of this feature and some really cool	libraries made by some guys at the folrum,  
+Through the use of this feature and some really cool	libraries made by some guys at the forum,  
 
 <i>I made a local multiplayer drawing project that would allow two or more devices  
 to draw on a canvas while also previewing the intups and updated the canvas in real time.</i>  
@@ -67,7 +67,7 @@ The value strip on the right were used when I was to HARD CODE a PINCH ZOOM and 
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing13.png?raw=true)<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing19.png?raw=true)<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing25.png?raw=true)<br>
-<i>there are afew more in the images source code directory at the [repo](https://github.com/Rocket-007/WeDraw)<i/>
+<i>there are afew more screenshots in the images source code directory at this [repo](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_IMGS)<i/>
 
 <br><br>
 
