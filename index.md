@@ -15,14 +15,14 @@ I finally came to the realization that... man... I gotta make something.</i> <br
 
 <i>Being an aspired game developer, what could I have done with [my mobile phone](/myPhoneSpec)(did nt have a pc).<br>  
 After a hundred google searches later,<br>  
-I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (litrally just like that)<br>   
+I came across a stackover flow comment where some one mention IT!!!! "LOVE2D" (litrally just like that)<br><br>   
 So what is this <b>"love2d"</b>,</i> 
 
 </details>  
 
 <br>
 
-Well love2d is a multiplatform game ~~engine~~ framework that uses the <b>Lua programing language</b> for  
+Love2d is a multiplatform game ~~engine~~ framework that uses the <b>Lua programing language</b> for  
 its scripting(much like how pygame uses python for scripting and unity uses c# or and c++).  
 
 It is essencially used for making <b>2d games</b>,  
