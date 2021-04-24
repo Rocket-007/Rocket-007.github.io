@@ -40,8 +40,12 @@ Falling through ground bug(fixed)<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img3.png)<br>
 
 
-Falling through ground bug(fixed)<br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img3.png)<br>
+Adding functioning health bar, score, points, and score board<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img6.png)<br>
+
+
+???Admin in the lead<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/BIO_IMG/bio_img8.png)<br>
 
 
 
