@@ -10,8 +10,8 @@ Its actually one of my dream apps/game that I plan on continueing/recreating whe
 This project was where I used another dope feature of Love2d, <b>"NETWORKING"</b>.  
 Through the use of this feature and some really cool	libraries made by some guys at the folrum,  
 
-_I made a local multiplayer drawing project that would allow two or more devices  
-to draw on a canvas while also previewing the intups and updated the canvas in real time._  
+<i>I made a local multiplayer drawing project that would allow two or more devices  
+to draw on a canvas while also previewing the intups and updated the canvas in real time.</i>  
 
 I wont go in depth on how the code works but **BaSicALiy**  
 <i>each pen stroke is generated form drawing lines continiously on the moving path  
@@ -38,10 +38,13 @@ The very early stage of the development where the ineffective dot drawing method
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_img1.jpg?raw=true)
 
 
-Using the 'sock' library for the local netwoking <br>
-![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_img1.jpg?raw=true)
+Using the 'sock' library for the local networking <br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WeDraw_img3.jpg?raw=true)
 
 
+The long strip of values on the left shows the beginning and the ending of stroke gestures{I have to print them to screen because I use mobile}  
+(false and true values respectively). Will use this to create an undo feature someday <br>  
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing9.jpg?raw=true)
 
 
 
