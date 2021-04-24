@@ -8,7 +8,7 @@ This is the very first well pulished game progect i made while learnig love 2d a
 
 Others would have gone for something simple like astroids or a very basic platfomer (with a white cube as the player)  
 for there first game,  
-but i dont know what came into me that made me choose such a big project at the very early stage of me learning love2d.  
+but I game myself a way bigger project even it being at the very early stage of me learning love2d and lua.  
 
 It was terrible but exciting and ~~fun~~ _trilling_ but still verrry terrrriblee(sooo mannnny buggggs and errrorsss and issues and... arghh!!).  
 
@@ -16,18 +16,17 @@ Mind you this project is done entirely without a pc.
 There were very big issues like:  
 
 -map editing  
--enemy spawnig  
 -gamestates design  
 -sound implementation  
--sound implementation  
+-graphics design and assets creation 
 -enemy ai  
 -game controls  
 -ui design  
 -character selection  
 -apk packaging and signing...  
 
-...But surpisingly even without the pc after <b>2 MONTHS</b> i finished the game project,  
-with a ton of help form my brother in the arts department(<3 U bro)  
+...But surpisingly even without a pc after <b>2 MONTHS</b> i finished the game project,  
+with a ton of help form my brother in the arts department(<3 u bro)  
 
 You can view the complete code repository [here](https://github.com/Rocket-007/2d-Blobs) or download the apk [here](../blob/master/LICENSE)  
 
@@ -37,7 +36,10 @@ You can view the complete code repository [here](https://github.com/Rocket-007/2
 
 
 
-One of the early stage of the game project creation
+
+Fixing a very terrible bug that threatened the project at the early stage of development  
+the playing would clip a small piece of it self to the left to corner of the screen, leaving the wireframe of the collision blocks  
+the bug happened when i (inevitably) scaled the camera aand map to values like 0.1, 0.2,...0.9 <br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/2d-Blobs_img0.2.png?raw=true)  
 
 
