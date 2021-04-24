@@ -43,7 +43,9 @@ Using the 'sock' library for the local networking <br>
 
 
 The long strip of values on the left shows the beginning and the ending of stroke gestures{I have to print them to screen because I use mobile}  
-(false and true values respectively). Will use this to create an undo feature someday <br>  
+(false and true values respectively)- Will use this to create an undo feature someday,  
+and the strip of values on the right are the coordinates of each line attached to a stoke gesture table
+<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/dummyDrawing9.jpg?raw=true)
 
 
