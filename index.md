@@ -10,56 +10,55 @@ and worked on.
 <details>
   <summary>expand!?</summary>
 
-<i>Being an aspired game developer, what could I have done with <a href="myPhoneSpec">my mobile phone</a>(did nt have a pc).<br>  
-After some google searches,<br>  
-I came across a stack overflow comment where someone mention IT!!!! "LOVE2D" (litrally just like that)<br><br>   
-So what is this <b>"love2d"</b>,</i> 
+<i>Being an aspired game developer, what could I have done with <a href="myPhoneSpec">just my mobile phone</a>.<br>  
+After some research,<br>  
+I came across a stack overflow comment where someone mentioned "LOVE2D"<br><br>   
+What is this <b>"love2d"</b>?,</i> 
 
 </details>  
 
 <br>
 
 Love2d is a multiplatform game ~~engine~~ framework that uses the <b>Lua programing language</b> for  
-its scripting(much like how pygame uses python for scripting and unity uses c# or and c++).  
+its scripting.
 
 It is essencially used for making <b>2d games</b>,  
-but if you are crazy like me you could even make <b>3d games</b> that  
-go wayyyy beyond the bounds of this mode7 temple runner game i made [here](/WhereTo_page),  
-but it will definately take more time, effort and resouces to accomplish that.  
+but if you are crazy like me you could even make <b>3d games</b>,  
+but it will definately take more time, effort and resouces to accomplish.  
 
-Because love2d is multiplatform, the framework developers also made a <b>andriod app</b> of the framework(wowwww),  
+The framework developers also made a <b>mobile app</b> of the framework,  
 so meaning that you dont really have to use a pc to run the code,  
-you can aswell run  it on you <b>android and ios device</b> (double woooow). This was exactly what i was looking for.   
+you can aswell run  it on you <b>android or ios device</b> (wow). This was exactly what i was looking for.   
 
 
-You try it out yourself. Download the app on app store or playstore. I made use of <b>"droid edit"</b> for the coding(an IDE)  
-so you should probably get that too.  
+You can try it out yourself. Download the app on app store or playstore. I made use of <b>"droid edit"</b> for the coding(an IDE)  
+so you should probably get that too or any other IDE on mobile should work fine.  
 
 <b>Here are some of my code, projects and games/apps i have to show off</b>  
 
 
-[2d blobs(fisrt game)](/2dBlobs_page)  
+[2d blobs (9/2020)](/2dBlobs_page)  
 A 2d platformer shooter game(with cool and bright graphics)
 <img src="images/dummy_thumbnail_2dBlobs.png?raw=true"/>
 
 ---
-[WeDraw](/WeDraw_page)  
+[WeDraw (11/2020)] (/WeDraw_page)  
 A Mutiplayer Drawing Project
 <img src="images/dummy_thumbnail_WeDraw.png?raw=true"/>
 
 ---
-[BIO-battle it out](/BIO_page)  
+[BIO-battle it out (12/2020)](/BIO_page)  
 A VERY Unique Multiplayer 2d Platformer Shooter
-<img src="images/dummy_thumbnail._BIO.png?raw=true"/>
+<img src="images/dummy_thumbnail_BIO.png?raw=true"/>
 
 ---
-[WhereTo?](/WhereTo_page)  
+[WhereTo? (1/2020)](/WhereTo_page)  
 A MODE-7 Temple Runner Game
 <img src="images/dummy_thumbnail_WhereTo.png?raw=true"/>
 
 ---
-[some of my first prototypes and other little stuff on love 2dt](http://example.com/)  
-Some of my first prototypes and other little stuff on Love 2d
+[Random LOVE](http://example.com/)  
+Some of my first prototypes and other little stuff on Love2D  
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
@@ -82,12 +81,11 @@ Some of my first prototypes and other little stuff on Love 2d
 
 **Project description:**  This section of the page consists of Python Project.  
 
-So we started learning python in second semester of 100 level(Jan, 2021) and thats actually  
+So we started learning python in second semester of 100 level (1/2021) and thats actually  
 when i started putting more into using python programing language,  
-and here are some of my projects
 
 ---
-[First year College Class Projects(2021)](/sample_page)
+[First year College Class Projects]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -118,11 +116,11 @@ and here are some of my projects
 
 
 ### Html Projects: 
-[Project 1 Title](/sample_page)
+[Project 1 Title]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
