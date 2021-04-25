@@ -4,14 +4,15 @@
 
  
 **A MODE-7 Temple Runner Game Project**  
-In this finished project i used another... another dope feature of love2d,  
-<b>"SHADERS"</b>.  
+In this finished project i used another... another dope feature of love2d called<b>"SHADERS"</b>,  
+This also exposed me to the well known Graphics Shader Language, <b>GLSL</b> for OpenGL</b>.  
+
 Through the use of this feature and some really cool libraries made by some guys at the forum,  
 I was able to create a very well polished temple runner game  
-that uses the MODE-7(you should probably google this yourself) old trick.
+that uses the MODE-7(you should probably google this yourself, trust me) old trick.
 
 Some of the features of the game include: 
--saving and loading alot of stuff  
+-saving and loading alot of stuff (like scores, time, coins, characters, total run distance, highest distance ran...)  
 -in game shopping system  
 -character selection  
 -awesome reward on completing the game(unlocking everything)  
@@ -31,7 +32,7 @@ The code lives [here](https://github.com/Rocket-007/WhereTo) and the apk [here](
 <br>
 
 
-Fixing bugs on issues ( goofing arround:-D) on the early stages of the project s development <br>
+Fixing bugs on issues (actually just goofing arround :-D) on the early stages of the project s development <br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img0.png?raw=true)<br>
 
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img2.png?raw=true)<br>
