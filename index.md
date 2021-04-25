@@ -42,7 +42,7 @@ A 2d platformer shooter game(with cool and bright graphics)
 <img src="images/dummy_thumbnail_2dBlobs.png?raw=true"/>
 
 ---
-[WeDraw (11/2020)] (/WeDraw_page)  
+[WeDraw (11/2020)](/WeDraw_page)  
 A Mutiplayer Drawing Project
 <img src="images/dummy_thumbnail_WeDraw.png?raw=true"/>
 
