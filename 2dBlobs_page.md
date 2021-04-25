@@ -10,10 +10,9 @@ Others would have gone for something simple like astroids or a very basic platfo
 for there first game,  
 but I gave myself a way bigger project even it being at the very early stage of me learning love2d and lua B-).  
 
-It was terrible but exciting and ~~fun~~ _trilling_ but still verrry terrrriblee(sooo mannnny buggggs and errrorsss and issues and... arghh!!).  
 
-Because this project was done entirely without a pc.  
-There were very big issues like:  
+Because this project was done entirely without a pc,  
+there were very big issues like:  
 
 -map editing  
 -gamestates design  
