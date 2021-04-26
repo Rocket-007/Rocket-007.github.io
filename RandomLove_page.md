@@ -3,10 +3,17 @@
 ### RandomLove
 
 
-**Here are some of the several Love 2D Projects i have made so far...**  
+**Here are some of the several Love 2D Projects i have made so far...**  <br><br>
 
 
-project code are all [here](https://github.com/Rocket-007/Love2D-Prototypes-and-Code)<br>  
+
+Each description has a "(...)" above it, this is the file name concerned.  
+
+
+To run them on mobile, you would have to have them in the root directory and their name renamed to "main.lua".  
+But on pc you could run them directly without having to modify the file.  
+
+Project code are all [here](https://github.com/Rocket-007/Love2D-Prototypes-and-Code)<br>  
 
 ---
 
@@ -64,6 +71,16 @@ Using Love2D's particle system B-)
 <i>Tap rappidly on the screen to move explosion to that touch/mouse position<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/RandomLove_IMGS/Explosion.png?raw=true)<br><br>
 
+
+
+(particlesfire)  
+Using Love2D's particle system B-)  
+<i>Tap rappidly on the screen to fire to that touch/mouse position(the flame is white here because of an update to Love2D, which also affected the color method)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/RandomLove_IMGS/particlesfire.png?raw=true)<br><br>  
+
+
+there are afew more too...
+project code are all [here](https://github.com/Rocket-007/Love2D-Prototypes-and-Code)<br>  
 
 
 
