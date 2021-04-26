@@ -1,14 +1,14 @@
 ---
 
-### Random
+### RandomLove
 
 
-**Some of my first prototypes and other little stuff on Love2D**  
+**Here are some of the several Love 2D Projects i have made so far...**  
 
 
 project code are all [here](https://github.com/Rocket-007/Love2D-Prototypes-and-Code)<br>  
 
----  
+---
 
 (mainj) 
 Little prototype I made that made use of the awesome "gooi" library.  
@@ -47,16 +47,22 @@ My prototype of make creation and dynamic movement in it<br>
 
 
 (main(eyebull))  
+This is found in the "TrashyMains" folder.  
 One of the first tutorials i following through to make<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/RandomLove_IMGS/main(eyebull).png?raw=true)<br><br>
 
 
 
 (mainvers)  
-Following through a tutorial of map making with tile sets<br>
+Version of 2D Blobs were I still usied heavy screen debugging<br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/RandomLove_IMGS/mainvers.png?raw=true)<br><br>
 
 
+
+(Explosion)  
+Using Love2D's particle system B-)  
+<i>Tap rappidly on the screen to move explosion to that touch/mouse position<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/RandomLove_IMGS/Explosion.png?raw=true)<br><br>
 
 
 
