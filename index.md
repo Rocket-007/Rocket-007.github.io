@@ -57,7 +57,7 @@ A MODE-7 Temple Runner Game
 <img src="images/dummy_thumbnail_WhereTo.png?raw=true"/>
 
 ---
-[Random LOVE](http://example.com/)  
+[Random LOVE](/RandomLove_page)  
 Some of my first prototypes and other little stuff on Love2D  
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
