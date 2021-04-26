@@ -115,7 +115,7 @@ here are some of the things i have done with it.
 
 ---
 
-
+<!--- 
 ### Html Projects: 
 [Project 1 Title]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -143,5 +143,7 @@ here are some of the things i have done with it.
 
 
 ---
+
+--->
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
