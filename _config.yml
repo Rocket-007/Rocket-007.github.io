@@ -3,7 +3,8 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  Second description 
+  <b>Languages</b>- Lua, Python, GLSL, HTML & CSS<br>
+  <b>Technology</b>- Love2d, Pygame, PHPmyAdmin
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
