@@ -59,7 +59,7 @@ A MODE-7 Temple Runner Game<br>
 ---
 [Random LOVE](/RandomLove_page)<br>  
 Some of my first prototypes and other little stuff on Love2D<br>  
-<img src="images/dummy_thumbnail_Love2D.png?raw=true"/>
+<img src="images/dummy_thumbnail_Love2D_img.png?raw=true"/>
 
 
 ---  
@@ -86,15 +86,15 @@ when i started putting more into using python programing language,
 here are some of the things i have done with it.  
 
 ---
-[First year College Class Python Projects]()<br>
+[First year College Class Python Projects](/Py1stYearColl_page)<br>
 <img src="images/dummy_thumbnail_python_img.png?raw=true"/>
 
 ---
-[Some other Random Python Code]()<br>
+[Some other Random Python Code](/RandomPythoncode_page)<br>
 <img src="images/dummy_thumbnail_python_img.png?raw=true"/>
 
 ---
-[Pygame Projects]()<br>
+[Pygame Projects](/Pygame_page)<br>
 <img src="images/dummy_thumbnail_pygame_img.png?raw=true"/>
 
 
