@@ -18,7 +18,7 @@ Some of the features of the game include:
 -awesome reward on completing the game(unlocking everything)  
 -and more...  
 
-I also made a local leaderboard <b>database</b> with python [here]()  
+I also made a local leaderboard <b>database</b> with python [here]()
 where i keep a record of the people with the highest score.  
 Feel free to send your best score and your name to any of my contacts if you want your score there.   
 
