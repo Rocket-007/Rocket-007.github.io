@@ -38,7 +38,7 @@ so you should probably get that too or any other IDE on mobile should work fine.
 
 
 [2d blobs (9/2020)](/2dBlobs_page)<br>  
-A 2d platformer shooter game(with cool and bright graphics)
+A 2d platformer shooter game(with cool and bright graphics)<br>
 <img src="images/dummy_thumbnail_2dBlobs.png?raw=true"/>
 
 ---
