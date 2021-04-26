@@ -17,7 +17,7 @@ Project code are all [here](https://github.com/Rocket-007/Love2D-Prototypes-and-
 
 ---
 
-(mainj) 
+(mainj)  
 Little prototype I made that made use of the awesome "gooi" library.  
 <i> A cube moving with the joysticks and printing the inputs</i><br>
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/RandomLove_IMGS/mainj.png?raw=true)<br><br>
