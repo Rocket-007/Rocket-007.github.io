@@ -4,8 +4,8 @@ Pygame is a well known framework or library(depending on who you ask) of python 
 Luckily there is a python app call "Pydroid 3" which comes with the pygame framework integrated into it, which is what i used to learn and program  
 with [my mobile phone](/myPhoneSpec_page).  
 
-BTW, I already deeply used love2d and lua before pygame and python so transfering the code knowledge, structure and  
-problem solving skills really helped me alot to progress faster (than the average bear ;-)).  
+I already deeply learnt love2d and lua before pygame and python so transfering the code knowledge, structure and  
+problem solving skills really helped me alot to progress faster (than the average bear ;-) ).  
 
 
 ---
@@ -20,7 +20,11 @@ then I (creatively) added extra stuff like shooting and fire coming out of your 
 I think I'll make a tutorial of mine on how it was made (the code, classes stuff and then the assets)  
 
 
-The code is over [here]()  
+The code is over [here](https://github.com/Rocket-007/PyGAME/tree/main/missle%20WAR)  
+<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/Pygame_IMG/missleWar2.png?raw=true)<br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/Pygame_IMG/missleWar.png?raw=true)<br>
+<br>
 
 
 
