@@ -37,28 +37,28 @@ so you should probably get that too or any other IDE on mobile should work fine.
 <b>Here are some of my code, projects and games/apps i have to show off</b>  
 
 
-[2d blobs (9/2020)](/2dBlobs_page)  
+[2d blobs (9/2020)](/2dBlobs_page)<br>  
 A 2d platformer shooter game(with cool and bright graphics)
 <img src="images/dummy_thumbnail_2dBlobs.png?raw=true"/>
 
 ---
-[WeDraw (11/2020)](/WeDraw_page)  
-A Mutiplayer Drawing Project
+[WeDraw (11/2020)](/WeDraw_page)<br>  
+A Mutiplayer Drawing Project<br>
 <img src="images/dummy_thumbnail_WeDraw.png?raw=true"/>
 
 ---
-[BIO-battle it out (12/2020)](/BIO_page)  
-A VERY Unique Multiplayer 2d Platformer Shooter
+[BIO-battle it out (12/2020)](/BIO_page)<br>  
+A VERY Unique Multiplayer 2d Platformer Shooter<br>
 <img src="images/dummy_thumbnail_BIO.png?raw=true"/>
 
 ---
-[WhereTo? (1/2020)](/WhereTo_page)  
-A MODE-7 Temple Runner Game
+[WhereTo? (1/2020)](/WhereTo_page)<br>  
+A MODE-7 Temple Runner Game<br>
 <img src="images/dummy_thumbnail_WhereTo.png?raw=true"/>
 
 ---
-[Random LOVE](http://example.com/)  
-Some of my first prototypes and other little stuff on Love2D  
+[Random LOVE](http://example.com/)<br>  
+Some of my first prototypes and other little stuff on Love2D<br>  
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
@@ -86,15 +86,15 @@ when i started putting more into using python programing language,
 here are some of the things i have done with it.  
 
 ---
-[First year College Class Projects]()
+[First year College Class Projects]()<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Some other Random Code]()
+[Some other Random Code]()<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pygame Projects]()
+[Pygame Projects]()<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
