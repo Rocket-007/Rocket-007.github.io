@@ -12,3 +12,9 @@ This is litraly the device I used B-)<br>
 
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/PhoneSpec_IMGS/spec2.png?raw=true)<br><br>
 
+
+
+<br><br>
+Need i say more >_< <br>
+![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/PhoneSpec_IMGS/png.png?raw=true)<br><br>
+
