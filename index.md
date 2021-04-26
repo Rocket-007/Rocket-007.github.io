@@ -57,7 +57,7 @@ A MODE-7 Temple Runner Game
 <img src="images/dummy_thumbnail_WhereTo.png?raw=true"/>
 
 ---
-[Random LOVE](/RandomLove_page)  
+[Random LOVE](http://example.com/)  
 Some of my first prototypes and other little stuff on Love2D  
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -83,6 +83,7 @@ Some of my first prototypes and other little stuff on Love2D
 
 So we started learning python in second semester of 100 level (1/2021) and thats actually  
 when i started putting more into using python programing language,  
+here are some of the things i have done with it.  
 
 ---
 [First year College Class Projects]()
