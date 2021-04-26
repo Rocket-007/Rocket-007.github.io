@@ -7,13 +7,22 @@ with [my mobile phone](/myPhoneSpec_page).
 BTW, I already deeply used love2d and lua before pygame and python so transfering the code knowledge, structure and  
 problem solving skills really helped me alot to progress faster (than the average bear ;-)).  
 
-		\missle attack
-		this was litrally the FIRST mini game project... thing i did.
-		i went through this tutoral here, then added more stuff like shooting and fire coming out of your ship :-)
-		side note... this first pygame game of mine was done in 3 days (including the assetd)... 
-		what can i say,am a fast learner
-		i think ill make a tutorial on how it was made (the code and classes stuff then the assets)
-		the code is over here
+
+---
+
+
+####Missle attack  
+This was litrally the FIRST mini game project... thing i did on pygame.  
+i went abit through a little blog tutorial I saw online,  
+then I (creatively) added extra stuff like shooting and fire coming out of your ship :-)  
+<i>side note... this first mini pygame... game of mine was done in 3 days (including the drawing of the crukked assets)...</i>  
+<br><br>
+I think I'll make a tutorial of mine on how it was made (the code, classes stuff and then the assets)  
+
+
+The code is over [here]()  
+
+
 
 		\cube-E(runner cube)
 		This was made by me following this tutorial [here](). but i added touch/mouse support were now the cube moves
