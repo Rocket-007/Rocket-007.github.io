@@ -27,7 +27,7 @@ there were very big issues like:
 ...But even without the support a pc, after <b>2 MONTHS</b> the game project was completed,  
 with a ton of help form my brother in the arts department(<3 u bro)  
 
-You can view the complete code repository [here](https://github.com/Rocket-007/2d-Blobs) or download the apk [here](../blob/master/LICENSE)  
+You can view the complete code repository [here](https://github.com/Rocket-007/2d-Blobs) or download the apk [here](https://github.com/Rocket-007/2d-Blobs/releases/download/v1.0/2D_Blobs.apk)  
 
 <b>Below are some of the screenshots of the game s development and progress with description</b>  
 <br>
@@ -67,7 +67,7 @@ The main menu ;-)<br>
 
 
 
-You can view the complete code repository [here](https://github.com/Rocket-007/2d-Blobs) or download the apk [here](../blob/master/LICENSE)  
+You can view the complete code repository [here](https://github.com/Rocket-007/2d-Blobs) or download the apk [here](https://github.com/Rocket-007/2d-Blobs/releases/download/v1.0/2D_Blobs.apk)  
 
 ```lua
 if isAwesome then
