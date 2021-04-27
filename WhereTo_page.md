@@ -27,7 +27,7 @@ All the obstacles were drawn by my bro, but the characters are
 from online sources with a little tweaking of my own
 
 
-The code lives [here](https://github.com/Rocket-007/WhereTo) and the apk [here]()<br>
+The code lives [here](https://github.com/Rocket-007/WhereTo) and the apk [here](https://github.com/Rocket-007/WhereTo/releases/download/v1.3/Whereto.apk)<br>
 <b>Some of the screenshots of the game s development and progress with description below</b>  
 <br>
 
@@ -86,5 +86,5 @@ The Leaderboard project
 ![alt text](https://github.com/Rocket-007/Rocket-007.github.io/blob/master/images/WhereTo_IMGS/whereto_img23.png?raw=true)<br><br><br>
 
 
-The code lives [here](https://github.com/Rocket-007/WhereTo) and the apk [here]()
+The code lives [here](https://github.com/Rocket-007/WhereTo) and the apk [here](https://github.com/Rocket-007/WhereTo/releases/download/v1.3/Whereto.apk)
 
