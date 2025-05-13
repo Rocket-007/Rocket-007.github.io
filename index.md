@@ -2,6 +2,7 @@
 
 ---
 
+<meta http-equiv="refresh" content="0; url=https://rocket-007.github.io/portfolioTest">
 <a href="https://rocket-007.github.io/portfolioTest"> NEW PORTFOLIO HERE </a> <br>
 <a href="https://rocket-007.github.io/portfolioTest"> NEW PORTFOLIO HERE </a> <br>
 <a href="https://rocket-007.github.io/portfolioTest"> NEW PORTFOLIO HERE </a>
